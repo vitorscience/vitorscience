@@ -1,7 +1,7 @@
 ## :star: Hello, World! Me chamo Vitor
   
 ## :octocat: Sobre mim :octocat: 
-- 🦾 Sou Engenheiro de controle e Alista de dados. Atualmente trabalho na área pela MadeiraMadeira, automatizando processos e criando dashboards. 
+- 🦾 Sou formado em Eng. de controle e atualmente trabalho como Analista  de dados. Trabalho na área pela MadeiraMadeira, automatizando processos e criando dashboards. 
 
 <div align="center"> 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
