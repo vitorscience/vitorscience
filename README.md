@@ -16,8 +16,7 @@
 
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="vitor-python"  height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
   <img align="center" alt="joao-html"  height="30" width="40"  
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="joao-sass"  height="30" width="40"
@@ -34,6 +33,8 @@
   src="https://www.mygo.ge/uploads/blog/1584023795.jpg">
   <img align="center" alt="joao-react" height="30" width="40" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+  <img align="right" alt="joao-gif" height="150" style="border-radius:50px;" 
 
    
  
