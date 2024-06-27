@@ -35,7 +35,7 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
    <img align="center" alt="joao-react" height="30" width="40" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-
+  <img align="center" alt="joao-react" height="30" width="40" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="joao-ladder" height="30" width="40" 
   src="https://upload.wikimedia.org/wikipedia/commons/0/00/Ladder_logic.png" /> 
