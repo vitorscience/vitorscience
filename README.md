@@ -6,7 +6,7 @@
 - :mortar_board: Estou no processo de aprendizagem para me tornar desenvolvedor Fullstack, atualmente meu foco no Frontend é ReactJs e no Backend com Node.js.
 
 <div align="center">
-  <a href="https://github.com/Jhenrique12">
+  <a href="https://github.com/vitorscience">
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvitorscience&layout=compact&langs_count=7&theme=radical"/>
 <!--    <img   height="180em" width="48%"" src="https://github-readme-streak-stats.herokuapp.com/?user=Jvitorscience&theme=radical"/> -->
 </div>
