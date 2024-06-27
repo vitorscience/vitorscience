@@ -24,6 +24,8 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="joao-react" height="30" width="40" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="joao-react" height="30" width="40" 
+  src="https://img.icons8.com/ios-filled/50/000000/microchip.png" />
  
   
 
