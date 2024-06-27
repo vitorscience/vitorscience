@@ -1,10 +1,8 @@
 ## :star: Hello, World! Me chamo Vitor
   
 ## :octocat: Sobre mim :octocat: 
-- 🏭 Sou técnico em Automação Industrial. Atualmente trabalho na área pela TSA Engenharia, automatizando processos industriais, principalmente para empresas mineradoras, como a VALE S/A. 
+- 🦾 Sou Engenheiro de controle e Alista de dados. Atualmente trabalho na área pela MadeiraMadeira, automatizando processos e criando dashboards. 
 
-- :mortar_board: Estou no processo de aprendizagem para me tornar desenvolvedor Fullstack, atualmente meu foco no Frontend é ReactJs e no Backend com Node.js.
-  
 <div align="center"> 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 
